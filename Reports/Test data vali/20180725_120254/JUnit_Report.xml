@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test data vali" time="58" tests="7" failures="0" errors="0">
+   <testsuite name="Test data vali" tests="7" failures="0" errors="0" time="58" timestamp="2018-07-25 12:02:56" hostname="slk - WSLK1FFTRFW-01.SLKSOFT.COM" id="Test Suites/Test data vali">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk\\Katalon Studio\\Demo\\Reports\\Test data vali\\20180725_120254"/>
+         <property name="logFiles" value="C:\\Users\\slk\\Katalon Studio\\Demo\\Reports\\Test data vali\\20180725_120254\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-01.SLKSOFT.COM"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="aa7bd68821ef683a9a73a83f21a2ce78"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/DAY2/Test VAR data vali" classname="Test Cases/DAY2/Test VAR data vali" status="PASSED">
+         <system-out><![CDATA[2018-07-25 12:02:56 - [TEST_CASE][PASSED] - Test Cases/DAY2/Test VAR data vali: Test Cases/DAY2/Test VAR data vali
+
+2018-07-25 12:02:56 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 12:02:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 12:02:59 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 12:03:03 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 12:03:03 - [TEST_STEP][PASSED] - setText: Text 'Admin' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtUsername'
+
+2018-07-25 12:03:04 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtUsername'
+
+2018-07-25 12:03:04 - [TEST_STEP][PASSED] - setText: Text 'admin123' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtPassword'
+
+2018-07-25 12:03:04 - [MESSAGE][PASSED] - Text 'admin123' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtPassword'
+
+2018-07-25 12:03:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/variable test/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-25 12:03:08 - [MESSAGE][PASSED] - Object: 'Object Repository/variable test/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-25 12:03:08 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-25 12:03:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DAY2/Test VAR" classname="Test Cases/DAY2/Test VAR" status="PASSED">
+         <system-out><![CDATA[2018-07-25 12:03:09 - [TEST_CASE][PASSED] - Test Cases/DAY2/Test VAR: Test Cases/DAY2/Test VAR
+
+2018-07-25 12:03:09 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 12:03:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 12:03:11 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 12:03:15 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 12:03:15 - [TEST_STEP][PASSED] - setText: Text 'Admin' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtUsername'
+
+2018-07-25 12:03:15 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtUsername'
+
+2018-07-25 12:03:15 - [TEST_STEP][PASSED] - setText: Text 'admin123' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtPassword'
+
+2018-07-25 12:03:15 - [MESSAGE][PASSED] - Text 'admin123' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtPassword'
+
+2018-07-25 12:03:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/variable test/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-25 12:03:19 - [MESSAGE][PASSED] - Object: 'Object Repository/variable test/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-25 12:03:19 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-25 12:03:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DAY2/Test VAR" classname="Test Cases/DAY2/Test VAR" status="PASSED">
+         <system-out><![CDATA[2018-07-25 12:03:20 - [TEST_CASE][PASSED] - Test Cases/DAY2/Test VAR: Test Cases/DAY2/Test VAR
+
+2018-07-25 12:03:20 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 12:03:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 12:03:22 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 12:03:25 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 12:03:25 - [TEST_STEP][PASSED] - setText: Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtUsername'
+
+2018-07-25 12:03:26 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtUsername'
+
+2018-07-25 12:03:26 - [TEST_STEP][PASSED] - setText: Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtPassword'
+
+2018-07-25 12:03:26 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtPassword'
+
+2018-07-25 12:03:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/variable test/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-25 12:03:26 - [MESSAGE][PASSED] - Object: 'Object Repository/variable test/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-25 12:03:26 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-25 12:03:27 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DAY2/Test VAR" classname="Test Cases/DAY2/Test VAR" status="PASSED">
+         <system-out><![CDATA[2018-07-25 12:03:27 - [TEST_CASE][PASSED] - Test Cases/DAY2/Test VAR: Test Cases/DAY2/Test VAR
+
+2018-07-25 12:03:27 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 12:03:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 12:03:29 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 12:03:33 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 12:03:33 - [TEST_STEP][PASSED] - setText: Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtUsername'
+
+2018-07-25 12:03:33 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtUsername'
+
+2018-07-25 12:03:33 - [TEST_STEP][PASSED] - setText: Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtPassword'
+
+2018-07-25 12:03:33 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtPassword'
+
+2018-07-25 12:03:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/variable test/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-25 12:03:33 - [MESSAGE][PASSED] - Object: 'Object Repository/variable test/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-25 12:03:33 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-25 12:03:33 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DAY2/Test VAR" classname="Test Cases/DAY2/Test VAR" status="PASSED">
+         <system-out><![CDATA[2018-07-25 12:03:33 - [TEST_CASE][PASSED] - Test Cases/DAY2/Test VAR: Test Cases/DAY2/Test VAR
+
+2018-07-25 12:03:33 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 12:03:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 12:03:35 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 12:03:39 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 12:03:39 - [TEST_STEP][PASSED] - setText: Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtUsername'
+
+2018-07-25 12:03:39 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtUsername'
+
+2018-07-25 12:03:39 - [TEST_STEP][PASSED] - setText: Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtPassword'
+
+2018-07-25 12:03:40 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtPassword'
+
+2018-07-25 12:03:40 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/variable test/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-25 12:03:40 - [MESSAGE][PASSED] - Object: 'Object Repository/variable test/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-25 12:03:40 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-25 12:03:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DAY2/Test VAR" classname="Test Cases/DAY2/Test VAR" status="PASSED">
+         <system-out><![CDATA[2018-07-25 12:03:40 - [TEST_CASE][PASSED] - Test Cases/DAY2/Test VAR: Test Cases/DAY2/Test VAR
+
+2018-07-25 12:03:40 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 12:03:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 12:03:42 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 12:03:46 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 12:03:46 - [TEST_STEP][PASSED] - setText: Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtUsername'
+
+2018-07-25 12:03:46 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtUsername'
+
+2018-07-25 12:03:46 - [TEST_STEP][PASSED] - setText: Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtPassword'
+
+2018-07-25 12:03:46 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtPassword'
+
+2018-07-25 12:03:46 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/variable test/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-25 12:03:46 - [MESSAGE][PASSED] - Object: 'Object Repository/variable test/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-25 12:03:46 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-25 12:03:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DAY2/Test VAR" classname="Test Cases/DAY2/Test VAR" status="PASSED">
+         <system-out><![CDATA[2018-07-25 12:03:47 - [TEST_CASE][PASSED] - Test Cases/DAY2/Test VAR: Test Cases/DAY2/Test VAR
+
+2018-07-25 12:03:47 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 12:03:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 12:03:49 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 12:03:53 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-25 12:03:53 - [TEST_STEP][PASSED] - setText: Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtUsername'
+
+2018-07-25 12:03:53 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtUsername'
+
+2018-07-25 12:03:53 - [TEST_STEP][PASSED] - setText: Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtPassword'
+
+2018-07-25 12:03:53 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/variable test/Page_OrangeHRM/input_txtPassword'
+
+2018-07-25 12:03:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/variable test/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-25 12:03:53 - [MESSAGE][PASSED] - Object: 'Object Repository/variable test/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-25 12:03:53 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-25 12:03:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-25 12:02:56 - [TEST_SUITE][PASSED] - Test data vali: Test Cases/DAY2/Test VAR]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>VAR2</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-07-25T11:24:05</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>4073e653-ee59-41b1-b6b5-a8ff31f685c3</testSuiteGuid>
+   <testCaseLink>
+      <guid>280af25c-47f4-4e77-8398-2fdbc40e5db7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DAY1/Orange HRM</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dd54b410-72d1-4ddf-92b1-68c8e8b9a09a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DAY2/Test VAR_global</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>885d2429-0bc8-4aab-bafd-e691e86d6248</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>83faa7e6-a3d2-4055-bc8b-dabee65f46a0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2c9e7a44-451e-431e-a42a-4dd264f55282</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

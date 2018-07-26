@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test VAR data vali</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e884ac87-3bca-47dc-951a-005c3a3eb449</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7589e924-2454-4b24-8b0d-3dfdc1f9049d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>60f6db23-ae4a-4375-9cd0-06d530a33e4c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

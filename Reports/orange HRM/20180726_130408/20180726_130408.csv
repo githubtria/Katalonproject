@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+orange HRM,,,2018-07-26 13:04:09,2018-07-26 13:04:15,6.303s,FAILED
+,,,,,,
+Test Cases/DAY1/Orange HRM,,,2018-07-26 13:04:09,2018-07-26 13:04:12,3.304s,FAILED
+openBrowser,,,2018-07-26 13:04:09,2018-07-26 13:04:12,3.062s,FAILED
+,,,,,,
+Test Cases/DAY1/Orange validation 2,,,2018-07-26 13:04:12,2018-07-26 13:04:15,2.177s,FAILED
+openBrowser,,,2018-07-26 13:04:13,2018-07-26 13:04:15,2.007s,FAILED

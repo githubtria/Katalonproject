@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test data vali" time="16" tests="0" failures="0" errors="6">
+   <testsuite name="Test data vali" tests="0" failures="0" errors="6" time="16" timestamp="2018-07-25 12:29:14" hostname="slk - WSLK1FFTRFW-01.SLKSOFT.COM" id="Test Suites/Test data vali">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk\\Katalon Studio\\Demo\\Reports\\Test data vali\\20180725_122912"/>
+         <property name="logFiles" value="C:\\Users\\slk\\Katalon Studio\\Demo\\Reports\\Test data vali\\20180725_122912\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-01.SLKSOFT.COM"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="fb7ac28e53932ccede4ef12b19c9dc6a"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/DAY2/Test VAR data vali" classname="Test Cases/DAY2/Test VAR data vali" status="ERROR">
+         <error type="ERROR" message="Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case."/>
+         <system-out><![CDATA[2018-07-25 12:29:14 - [TEST_CASE][ERROR] - Test Cases/DAY2/Test VAR data vali: Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case.
+
+2018-07-25 12:29:14 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 12:29:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 12:29:17 - [TEST_STEP][PASSED] - navigateToUrl: null]]></system-out>
+         <system-err><![CDATA[2018-07-25 12:29:14 - [TEST_CASE][ERROR] - Test Cases/DAY2/Test VAR data vali: Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case.]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DAY2/Test VAR data vali" classname="Test Cases/DAY2/Test VAR data vali" status="ERROR">
+         <error type="ERROR" message="Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case."/>
+         <system-out><![CDATA[2018-07-25 12:29:17 - [TEST_CASE][ERROR] - Test Cases/DAY2/Test VAR data vali: Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case.
+
+2018-07-25 12:29:17 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 12:29:17 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-25 12:29:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 12:29:19 - [TEST_STEP][PASSED] - navigateToUrl: null]]></system-out>
+         <system-err><![CDATA[2018-07-25 12:29:17 - [TEST_CASE][ERROR] - Test Cases/DAY2/Test VAR data vali: Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case.]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DAY2/Test VAR data vali" classname="Test Cases/DAY2/Test VAR data vali" status="ERROR">
+         <error type="ERROR" message="Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case."/>
+         <system-out><![CDATA[2018-07-25 12:29:19 - [TEST_CASE][ERROR] - Test Cases/DAY2/Test VAR data vali: Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case.
+
+2018-07-25 12:29:19 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 12:29:19 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-25 12:29:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 12:29:22 - [TEST_STEP][PASSED] - navigateToUrl: null]]></system-out>
+         <system-err><![CDATA[2018-07-25 12:29:19 - [TEST_CASE][ERROR] - Test Cases/DAY2/Test VAR data vali: Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case.]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DAY2/Test VAR data vali" classname="Test Cases/DAY2/Test VAR data vali" status="ERROR">
+         <error type="ERROR" message="Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case."/>
+         <system-out><![CDATA[2018-07-25 12:29:22 - [TEST_CASE][ERROR] - Test Cases/DAY2/Test VAR data vali: Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case.
+
+2018-07-25 12:29:22 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 12:29:22 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-25 12:29:25 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 12:29:25 - [TEST_STEP][PASSED] - navigateToUrl: null]]></system-out>
+         <system-err><![CDATA[2018-07-25 12:29:22 - [TEST_CASE][ERROR] - Test Cases/DAY2/Test VAR data vali: Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case.]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DAY2/Test VAR data vali" classname="Test Cases/DAY2/Test VAR data vali" status="ERROR">
+         <error type="ERROR" message="Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case."/>
+         <system-out><![CDATA[2018-07-25 12:29:25 - [TEST_CASE][ERROR] - Test Cases/DAY2/Test VAR data vali: Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case.
+
+2018-07-25 12:29:25 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 12:29:25 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-25 12:29:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 12:29:27 - [TEST_STEP][PASSED] - navigateToUrl: null]]></system-out>
+         <system-err><![CDATA[2018-07-25 12:29:25 - [TEST_CASE][ERROR] - Test Cases/DAY2/Test VAR data vali: Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case.]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DAY2/Test VAR data vali" classname="Test Cases/DAY2/Test VAR data vali" status="ERROR">
+         <error type="ERROR" message="Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case."/>
+         <system-out><![CDATA[2018-07-25 12:29:27 - [TEST_CASE][ERROR] - Test Cases/DAY2/Test VAR data vali: Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case.
+
+2018-07-25 12:29:27 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 12:29:27 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-25 12:29:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 12:29:30 - [TEST_STEP][PASSED] - navigateToUrl: null]]></system-out>
+         <system-err><![CDATA[2018-07-25 12:29:27 - [TEST_CASE][ERROR] - Test Cases/DAY2/Test VAR data vali: Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case.]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-25 12:29:14 - [TEST_SUITE][ERROR] - Test data vali: Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case.]]></system-out>
+      <system-err><![CDATA[2018-07-25 12:29:14 - [TEST_SUITE][ERROR] - Test data vali: Test Cases/DAY2/Test VAR data vali FAILED because (of) Variable 'url' is not defined for test case.]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite1" time="21" tests="1" failures="1" errors="0">
+   <testsuite name="New Test Suite1" tests="1" failures="1" errors="0" time="21" timestamp="2018-07-24 13:16:19" hostname="slk - WSLK1FFTRFW-01.SLKSOFT.COM" id="Test Suites/New Test Suite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk\\Katalon Studio\\Demo\\Reports\\New Test Suite1\\20180724_131618"/>
+         <property name="logFiles" value="C:\\Users\\slk\\Katalon Studio\\Demo\\Reports\\New Test Suite1\\20180724_131618\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\slk\\Katalon Studio\\Demo\\Reports\\New Test Suite1\\20180724_131618\\1532418390276.png, C:\\Users\\slk\\Katalon Studio\\Demo\\Reports\\New Test Suite1\\20180724_131618\\1532418390567.png"/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-01.SLKSOFT.COM"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="56c4403a66ada59d6158116677a3eb18"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Test demo1/New Test Case1" classname="Test Cases/Test demo1/New Test Case1" status="FAILED">
+         <failure type="FAILED" message="Unable to accept alert (Root cause: No alert found)"/>
+         <system-out><![CDATA[2018-07-24 13:16:20 - [TEST_CASE][FAILED] - Test Cases/Test demo1/New Test Case1: Test Cases/Test demo1/New Test Case1 FAILED because (of) Unable to accept alert (Root cause: No alert found)
+
+2018-07-24 13:16:20 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-24 13:16:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-24 13:16:23 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-24 13:16:28 - [MESSAGE][PASSED] - Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-24 13:16:28 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Login procedure/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-07-24 13:16:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Login procedure/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-07-24 13:16:29 - [TEST_STEP][PASSED] - setText: Text 'John Doe' is set on object 'Object Repository/Login procedure/Page_CURA Healthcare Service/input_username'
+
+2018-07-24 13:16:29 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Login procedure/Page_CURA Healthcare Service/input_username'
+
+2018-07-24 13:16:29 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Login procedure/Page_CURA Healthcare Service/input_password'
+
+2018-07-24 13:16:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login procedure/Page_CURA Healthcare Service/input_password'
+
+2018-07-24 13:16:29 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Login procedure/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-07-24 13:16:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Login procedure/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-07-24 13:16:30 - [TEST_STEP][FAILED] - acceptAlert: Unable to accept alert (Root cause: No alert found)
+
+2018-07-24 13:16:30 - [MESSAGE][FAILED] - No alert found
+[[ATTACHMENT|C:\\Users\\slk\\Katalon Studio\\Demo\\Reports\\New Test Suite1\\20180724_131618\\1532418390276.png]]
+
+2018-07-24 13:16:30 - [MESSAGE][FAILED] - Unable to accept alert (Root cause: No alert found)
+[[ATTACHMENT|C:\\Users\\slk\\Katalon Studio\\Demo\\Reports\\New Test Suite1\\20180724_131618\\1532418390567.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-24 13:16:20 - [TEST_CASE][FAILED] - Test Cases/Test demo1/New Test Case1: Test Cases/Test demo1/New Test Case1 FAILED because (of) Unable to accept alert (Root cause: No alert found)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test demo1/test case2" classname="Test Cases/Test demo1/test case2" status="PASSED">
+         <system-out><![CDATA[2018-07-24 13:16:30 - [TEST_CASE][PASSED] - Test Cases/Test demo1/test case2: Test Cases/Test demo1/test case2
+
+2018-07-24 13:16:30 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-24 13:16:30 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-24 13:16:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-24 13:16:33 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-24 13:16:39 - [MESSAGE][PASSED] - Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-24 13:16:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Login procedure/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-07-24 13:16:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Login procedure/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-07-24 13:16:39 - [TEST_STEP][PASSED] - setText: Text 'John Doe' is set on object 'Object Repository/test 2/Page_CURA Healthcare Service/input_username'
+
+2018-07-24 13:16:39 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/test 2/Page_CURA Healthcare Service/input_username'
+
+2018-07-24 13:16:39 - [TEST_STEP][PASSED] - setText: Text 'ThisIsNotAPassword' is set on object 'Object Repository/Login procedure/Page_CURA Healthcare Service/input_password'
+
+2018-07-24 13:16:39 - [MESSAGE][PASSED] - Text 'ThisIsNotAPassword' is set on object 'Object Repository/Login procedure/Page_CURA Healthcare Service/input_password'
+
+2018-07-24 13:16:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Login procedure/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-07-24 13:16:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Login procedure/Page_CURA Healthcare Service/button_Login' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-24 13:16:19 - [TEST_SUITE][FAILED] - New Test Suite1: Test Cases/Test demo1/New Test Case1 FAILED because (of) Unable to accept alert (Root cause: No alert found)]]></system-out>
+      <system-err><![CDATA[2018-07-24 13:16:19 - [TEST_SUITE][FAILED] - New Test Suite1: Test Cases/Test demo1/New Test Case1 FAILED because (of) Unable to accept alert (Root cause: No alert found)]]></system-err>
+   </testsuite>
+</testsuites>
